@@ -1,6 +1,6 @@
 # AWS Credit Redeemer
 
-using AWS [textract](https://docs.aws.amazon.com/textract/index.html) to extract credit code from an image.
+Using AWS [textract](https://docs.aws.amazon.com/textract/index.html) to extract credit code from an image.
 
 ## Usage
 
